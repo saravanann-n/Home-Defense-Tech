@@ -28,11 +28,6 @@ This system is designed to:
 - 💡 Can be expanded with ESP32-CAM for image capture (optional)
 - 🧠 Low-cost, scalable, and easy to implement
 
-## 🖼️ System Diagram
-
-![image](https://github.com/user-attachments/assets/137ab637-234c-4676-865e-4ef61da7b41b)
-
-
 ## 📷 Output Model
 
 ![image](https://github.com/user-attachments/assets/84849ff1-8cf1-49d9-a584-93c317408810)
