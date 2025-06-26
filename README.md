@@ -30,9 +30,7 @@ This system is designed to:
 
 ## 📷 Demo Output Product Model
 
-![image](https://github.com/user-attachments/assets/7924286f-8c76-4ae1-b308-39afc1e163c3)
-
-
+![image](https://github.com/user-attachments/assets/5d030ab1-a711-4d15-967b-d38bc29ed017)
 
 ## 📝 Author
 
